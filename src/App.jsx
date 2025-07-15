@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <h1>This code is from the devops class</h1>
+        <h1>Thos code is written for trial</h1>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
